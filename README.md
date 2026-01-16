@@ -33,8 +33,8 @@ http://127.0.0.1:5000
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/text-sanitizer.git
-cd text-sanitizer
+git clone https://github.com/prof-0/Text-Sanitizer-Tool.git
+cd Text-Sanitizer-Tool
 ```
 
 ### 2. Install dependencies

@@ -37,7 +37,7 @@ git clone https://github.com/iprof-0/text-Sanitizer.git
 cd text-sanitizer
 ```
 
-### 2. Install dependencies
+### 2. Install [requirements](requirements.txt)
 ```bash
 pip install -r requirements.txt
 ```
@@ -80,14 +80,14 @@ This project intentionally uses a **single-file architecture** for:
 
 ---
 
-## 📜 License
+## 📜 [License](LICENSE)
 
 MIT License
 
 ---
 
-## 👤 Author
+## 👤 [Author](iprof-0.github.io/Zero)
 
-Zero  
+[Zero](iprof-0.github.io/Zero) 
 Cybersecurity Engineer  
 "No System is secure"
